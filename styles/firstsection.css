@@ -1,0 +1,40 @@
+.first-section {
+    height: 263px;
+    width: auto;
+    padding: 128px 16px;
+    background-color: red;
+    text-align: center;
+}
+
+.first-section__startpage {
+    margin: 16px;
+    font-weight: 400;
+    font-size: 64px;
+    color: whitesmoke;
+    line-height: 96px;
+    font-family: Montserrat, sans-serif;
+}
+
+.first-section__info {
+    font-size: 24px;
+    line-height: 36px;
+    color: whitesmoke;
+    font-family: Lato, sans-serif;
+}
+
+.first-section__getstarted {
+    height: 51px;
+    font-size: 18px;
+    font-weight: 400;
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    margin-top: 16px;
+    font-family: Montserrat, sans-serif;
+}
+
+.first-section__getstarted:hover {
+    color: black;
+    background-color: darkgray;
+}

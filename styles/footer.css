@@ -1,0 +1,20 @@
+.footer {
+    top: 0;
+    left: 0;
+    right: 0;
+    width: auto;
+    background-color: white;
+    padding: 64px 16px;
+    text-align: center;
+    display: block;
+    font-size: 15px;
+    font-family: Lato, sans-serif;
+    line-height: 22.5px;
+}
+
+.social-links {
+    font-size: 24px;
+    padding-top: 32px;
+    padding-bottom: 32px;
+    color: dimgray;
+}
